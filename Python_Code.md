@@ -132,4 +132,5 @@ def LoginScreen():
     btn_exit.grid(row=3, column=2, padx=10, pady=5)
 
 LoginScreen()
+
 root.mainloop()
