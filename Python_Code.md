@@ -1,6 +1,9 @@
 import tkinter as tk
+
 import cryptography
+
 from cryptography.fernet import Fernet
+
 import os.path
 
 
